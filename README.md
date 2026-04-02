@@ -22,7 +22,7 @@ Bash
 Run the game:
 Bash
 
-`python game.py`
+`python sahyogi.py`
 
 # 🔌 Hardware Setup (Arduino - Optional)
 You can use almost any analogue sensor (Potentiometer, Joystick, Light Sensor, or Ultrasonic Distance Sensor) to control the car.
@@ -72,7 +72,7 @@ For the game to load your custom assets automatically, ensure your project folde
 
 ```text
 /Folder
-│── game.py            # The main Python script
+│── sahyogi.py            # The main Python script
 │── pop.wav            # (Optional) Sound effect for bursting/crashing
 │── player.png         # (Optional) Your custom car sprite (transparent background is best)
 │── distract1.png      # (Optional) Obstacle image 1
