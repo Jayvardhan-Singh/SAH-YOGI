@@ -38,7 +38,7 @@ PIXELS_PER_SECOND = 150
 ROAD_THICKNESS = 160     
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Arcade Car Game")
+pygame.display.set_caption("SAHYOGI")
 font = pygame.font.SysFont(None, 28)
 small_font = pygame.font.SysFont(None, 22)
 large_font = pygame.font.SysFont(None, 48)
